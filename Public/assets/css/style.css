@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+#Layer_1 path, #Layer_2 path{
+    animation: ahhu 10s step-start alternate infinite running;
+}
+
+
+
+#Layer_1{
+    width: 50vw;
+    transform: translateX(10%);
+}
+
+#Layer_2{
+    width: 50vw;
+    transform: translateY(12%) translateX(-10%);
+}
+
+@media screen and (max-width:480px) { 
+
+#Layer_1{
+    width: 100vw!important;
+    height: 50vh;
+    transform: translateX(1%) translateY(28%);
+}
+
+#Layer_2{
+    width: 100vw!important;
+    height: 50vh;
+    transform: translateX(6%) translateY(-5%); 
+}
+
+}
+
+
+
+#mainvis{
+    width: 100vw;
+    height: 100vh;
+    animation: bga 10s step-start alternate  infinite running;
+}
+
+
+
+
+
+
+#mainvis .ahou{
+        width: 100vw;
+    height: 100vh;
+    display: flex;
+    transform: translateY(-6%);
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}

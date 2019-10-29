@@ -1,0 +1,83 @@
+@keyframes bga{
+    
+    5%{
+       background-color: #fff;
+    }
+    
+    15%{
+       background-color: #e63c35;
+    }
+    
+    17.5%{
+       background-color: #ebcf52;
+    }
+    
+    22.5%{
+        background-color: #7267c9;
+    }
+    
+    32.5%{
+        background-color: #e34530;
+    }
+    
+    34.5%{
+        background-color: #ed5acb;
+    }
+    
+    36.5%{
+        background-color: #64bd2d;
+    }
+    
+    41.5%{
+        background-color: #93f5ee;
+    }
+    
+    43.5%{
+        background-color: #333;
+    }
+    
+    48.5%{
+        background-color: #d2f7f7;
+    }
+    
+    58.5%{
+        background-color: #d12d1b;
+    }
+    
+    60.5%{
+        background-color: #821bd1;
+    }
+    
+    65.5%{
+        background-color: #e8bee3;
+    }
+    
+    70.5%{
+        background-color: #5f5fb3;
+    } 
+    
+    72.5%{
+        background-color: #5c3a9e;
+    }
+    
+    74.5%{
+        background-color: #376ca6;
+    }
+    
+    76.5%{
+        background-color: #5d822e;
+    }
+    
+    81.5%{
+        background-color: #3d7a6d;
+    }
+    
+    83.5%{
+        background-color: #d1933d;
+    }
+    
+    91.5%{
+        background-color: #363057;
+    }
+    
+}
