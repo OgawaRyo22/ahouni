@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem 'sinatra'
 gem 'sinatra-contrib'
 
-gem 'rake', '~> 12.3.1'
+gem 'rake', '~> 12.3.3'
 gem 'sinatra-activerecord'
 gem 'sinatra-strong-params', :require => 'sinatra/strong-params'
 
